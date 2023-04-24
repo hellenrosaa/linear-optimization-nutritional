@@ -1,2 +1,2 @@
 # linear-optimization-nutritional
-Projeto da disciplina de Otimização e Simulação do curso de Ciência de Dados e Inteligência artificial da PUC-SP com o objetivo de criar um software que utilize programação linear na  otimização  das  quantidades  necessárias de  alimentos,  com  a ideia  de  atender  às necessidades  nutricionais  de  um  indivíduo  adulto.
+Project for the Optimization and Simulation course of the Data Science and Artificial Intelligence program at PUC-SP with the objective of creating a software that uses linear programming to optimize the necessary quantities of food, with the idea of meeting the nutritional needs of an adult individual.
